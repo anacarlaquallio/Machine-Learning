@@ -1,2 +1,2 @@
-# Python
-Este repositório tem o objeto de armazenar os códigos em Python do Trainee em Data Science
+# Machine Learning
+Este repositório tem o objeto de armazenar projetos práticos de Machine Learning
